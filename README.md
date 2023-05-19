@@ -1,1 +1,6 @@
 # UTS_Flutter
+
+## NAMA     = FERY AFFANDI
+## NIM      = 312010018
+## KELAS    = TI.20.A.1
+## MATAKULIAH = PEMROGRAMAN MOBILE
